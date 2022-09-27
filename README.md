@@ -14,3 +14,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+- 🌱 I graduated from Spiced Academy Full Stack Web Development Bootcamp, where I learned the latest cutting-edge full stack web development tech stack, including JavaScript, React, Vue, HTML & CSS, Node.js, PostgreSQL, Git & GitHub. Due to my engineering background and through different positions as development engineer in Automotive Industry I developed strong problem-solving skills and an ability to team up with diverse teams in order to find the best solution.
+
+- 🔭 I am interested to find a job as full-stack developer, frontend developer, backend developer or other related positions in a tech company with interesting business and long vision, where I can contribute my skills to meaningful products of helping people or society.
+
+- 📫 How to reach me:
+📧 robin.liu.mr@gmail.com
+🖇 https://www.linkedin.com/in/bin-liu/
