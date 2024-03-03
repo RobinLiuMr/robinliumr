@@ -19,4 +19,4 @@ Here are some ideas to get you started:
 
 - How to reach me: 
 [📧 E-mail](mailto:robin.liu.mr@gmail.com)
-<a href="https://www.linkedin.com/in/bin-liu/" target="_blank">🖇 LinkedIn</a>
+
