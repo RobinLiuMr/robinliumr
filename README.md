@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-
+- 🔭 I’m currently working on FISI Umschulung
 
 - How to reach me: 
 [📧 E-mail](mailto:robin.liu.mr@gmail.com)
